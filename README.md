@@ -5,5 +5,3 @@
 - 👯 I’m looking to collaborate on SaaS
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me about chess
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I speak German
